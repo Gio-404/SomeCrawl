@@ -1,0 +1,32 @@
+HEADERS = {
+    'Accept': '*/*',
+    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+    'Connection': 'keep-alive',
+    # 'Cookie': 'SUID=A0BCC76F492CA20A00000000638F4307; SUV=1670333193151956; ssuid=2352023162; IPLOC=CN1100; cuid=AAGNCYcyRgAAAAqgS34kSwEANgg=; ABTEST=1|1690001024|v1; SNUID=417E71DCB4B5B2B8B276C953B4C14921; ppinf=5|1690001047|1691210647|dHJ1c3Q6MToxfGNsaWVudGlkOjQ6MjAxN3x1bmlxbmFtZTozMDpHaW8lRTElQUYlQTQlRTIlODElQjYlRTElQjQlQjN8Y3J0OjEwOjE2OTAwMDEwNDd8cmVmbmljazozMDpHaW8lRTElQUYlQTQlRTIlODElQjYlRTElQjQlQjN8dXNlcmlkOjQ0Om85dDJsdUtwT2licmJVWC1MREJxRnBJbndobllAd2VpeGluLnNvaHUuY29tfA; pprdig=Ku78gvY5UQ96AHf86i_Q3HUbNl03nTX312yBNXpSCF_cNXdMqgZz5pQpON_kTfCHiGGM92Q1FHvvK_ONiLudcYieK7DlWqoRztJA_gDBmIhhpdlslJbaUsCGgjDKo8RgnkBXUlDFiwiFsmhR1FjDk9_hQA71i6gjbBRU6o8CI74; ppinfo=2a44119997; passport=5|1690001047|1691210647|dHJ1c3Q6MToxfGNsaWVudGlkOjQ6MjAxN3x1bmlxbmFtZTozMDpHaW8lRTElQUYlQTQlRTIlODElQjYlRTElQjQlQjN8Y3J0OjEwOjE2OTAwMDEwNDd8cmVmbmljazozMDpHaW8lRTElQUYlQTQlRTIlODElQjYlRTElQjQlQjN8dXNlcmlkOjQ0Om85dDJsdUtwT2licmJVWC1MREJxRnBJbndobllAd2VpeGluLnNvaHUuY29tfA|2829bf8a5c|Ku78gvY5UQ96AHf86i_Q3HUbNl03nTX312yBNXpSCF_cNXdMqgZz5pQpON_kTfCHiGGM92Q1FHvvK_ONiLudcYieK7DlWqoRztJA_gDBmIhhpdlslJbaUsCGgjDKo8RgnkBXUlDFiwiFsmhR1FjDk9_hQA71i6gjbBRU6o8CI74; sgid=06-66746699-AWS7XpfP8KicsObKSsaEeibfo; ppmdig=169000105400000022dfdd014d61cb5c4959cc89ed5c56b9; JSESSIONID=aaa3wOqAEgGrAarYMITLy',
+    'Referer': 'https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=1&type=2&query=%E9%A3%8E%E6%99%AF&w=01015002&oq=&ri=8&sourceid=sugg&sut=1385&sst0=1690001061577&lkt=0%2C0%2C0&p=40040108',
+    'Sec-Fetch-Dest': 'empty',
+    'Sec-Fetch-Mode': 'cors',
+    'Sec-Fetch-Site': 'same-origin',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82',
+    'X-Requested-With': 'XMLHttpRequest',
+    'sec-ch-ua': '"Not.A/Brand";v="8", "Chromium";v="114", "Microsoft Edge";v="114"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+}
+
+COOKIES = {
+    'SUID': 'A0BCC76F492CA20A00000000638F4307',
+    'SUV': '1670333193151956',
+    'ssuid': '2352023162',
+    'IPLOC': 'CN1100',
+    'cuid': 'AAGNCYcyRgAAAAqgS34kSwEANgg=',
+    'ABTEST': '1|1690001024|v1',
+    'SNUID': '417E71DCB4B5B2B8B276C953B4C14921',
+    'ppinf': '5|1690001047|1691210647|dHJ1c3Q6MToxfGNsaWVudGlkOjQ6MjAxN3x1bmlxbmFtZTozMDpHaW8lRTElQUYlQTQlRTIlODElQjYlRTElQjQlQjN8Y3J0OjEwOjE2OTAwMDEwNDd8cmVmbmljazozMDpHaW8lRTElQUYlQTQlRTIlODElQjYlRTElQjQlQjN8dXNlcmlkOjQ0Om85dDJsdUtwT2licmJVWC1MREJxRnBJbndobllAd2VpeGluLnNvaHUuY29tfA',
+    'pprdig': 'Ku78gvY5UQ96AHf86i_Q3HUbNl03nTX312yBNXpSCF_cNXdMqgZz5pQpON_kTfCHiGGM92Q1FHvvK_ONiLudcYieK7DlWqoRztJA_gDBmIhhpdlslJbaUsCGgjDKo8RgnkBXUlDFiwiFsmhR1FjDk9_hQA71i6gjbBRU6o8CI74',
+    'ppinfo': '2a44119997',
+    'passport': '5|1690001047|1691210647|dHJ1c3Q6MToxfGNsaWVudGlkOjQ6MjAxN3x1bmlxbmFtZTozMDpHaW8lRTElQUYlQTQlRTIlODElQjYlRTElQjQlQjN8Y3J0OjEwOjE2OTAwMDEwNDd8cmVmbmljazozMDpHaW8lRTElQUYlQTQlRTIlODElQjYlRTElQjQlQjN8dXNlcmlkOjQ0Om85dDJsdUtwT2licmJVWC1MREJxRnBJbndobllAd2VpeGluLnNvaHUuY29tfA|2829bf8a5c|Ku78gvY5UQ96AHf86i_Q3HUbNl03nTX312yBNXpSCF_cNXdMqgZz5pQpON_kTfCHiGGM92Q1FHvvK_ONiLudcYieK7DlWqoRztJA_gDBmIhhpdlslJbaUsCGgjDKo8RgnkBXUlDFiwiFsmhR1FjDk9_hQA71i6gjbBRU6o8CI74',
+    'sgid': '06-66746699-AWS7XpfP8KicsObKSsaEeibfo',
+    'ppmdig': '169000105400000022dfdd014d61cb5c4959cc89ed5c56b9',
+    'JSESSIONID': 'aaa3wOqAEgGrAarYMITLy',
+}

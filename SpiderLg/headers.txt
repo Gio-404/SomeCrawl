@@ -1,0 +1,10 @@
+{
+"Accept": "application/json, text/javascript, */*; q=0.01",
+"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+"Origin": "https://www.lagou.com",
+"Referer": "https://www.lagou.com/jobs/list_%E6%B5%8B%E8%AF%95?labelWords=&fromSearch=true&suginput=",
+"User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+"X-Anit-Forge-Code": "0",
+"X-Anit-Forge-Token": "None",
+"X-Requested-With": "XMLHttpRequest"
+}
